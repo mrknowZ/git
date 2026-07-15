@@ -16,3 +16,4 @@ $ cat profile.json
   "location": "Pakistan ➔ Canada (Sherbrooke, QC)",
   "focus": ["Embedded Systems", "FPGA Hardware Design", "IoT", "ROS 2 Robotics"]
 }
+best of luck 
